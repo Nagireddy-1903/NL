@@ -1,1 +1,1 @@
-# NL
+Git is source cde management which can help people to be able to clone the repositories to their local  branches and able to save their changes if everything is good and be able to merge in main file .# NL
